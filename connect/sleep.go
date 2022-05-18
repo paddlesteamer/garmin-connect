@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	connect "github.com/abrander/garmin-connect"
+	connect "github.com/paddlesteamer/garmin-connect"
 	"github.com/spf13/cobra"
 )
 

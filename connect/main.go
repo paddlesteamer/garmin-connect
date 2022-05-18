@@ -9,7 +9,7 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/crypto/ssh/terminal"
 
-	connect "github.com/abrander/garmin-connect"
+	connect "github.com/paddlesteamer/garmin-connect"
 )
 
 var (
